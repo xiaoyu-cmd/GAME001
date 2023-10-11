@@ -1,0 +1,7 @@
+[
+{"param":3,"sn":"today_shared_count"},
+{"param":1,"sn":"today_shared_get_step"},
+{"param":2.5,"sn":"reward_interval"},
+{"param":3,"sn":"reward_num"},
+{"param":10,"sn":"reward_get_count"}
+]

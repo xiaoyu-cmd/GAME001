@@ -1,0 +1,20 @@
+{
+  "name": "Demo001",
+  "uuid": "085f072d-d7ae-4a3d-8bf4-ce9b27b6a955",
+  "creator": {
+    "version": "3.7.4",
+    "registry": {
+      "remote": {}
+    },
+    "dependencies": {
+      "localization-editor": "1.0.1"
+    }
+  },
+  "dependencies": {
+    "@types/crypto-js": "^4.1.2",
+    "crypto-es": "^2.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.4"
+  }
+}

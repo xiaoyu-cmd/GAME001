@@ -1,0 +1,9 @@
+[
+{"BrazilCoin":15,"IndonesiaCoin":120,"duobleCoin":0,"sn":101,"stepNum":0,"tips":"这是一个tips","type":1,"weight":100},
+{"BrazilCoin":20,"IndonesiaCoin":150,"duobleCoin":0,"sn":102,"stepNum":0,"tips":"这是一个tips","type":1,"weight":100},
+{"BrazilCoin":25,"IndonesiaCoin":180,"duobleCoin":0,"sn":103,"stepNum":0,"tips":"这是一个tips","type":1,"weight":100},
+{"BrazilCoin":0,"IndonesiaCoin":0,"duobleCoin":0,"sn":201,"stepNum":1,"tips":"这是一个tips","type":2,"weight":50},
+{"BrazilCoin":0,"IndonesiaCoin":0,"duobleCoin":0,"sn":202,"stepNum":2,"tips":"这是一个tips","type":2,"weight":150},
+{"BrazilCoin":0,"IndonesiaCoin":0,"duobleCoin":0,"sn":203,"stepNum":3,"tips":"这是一个tips","type":2,"weight":50},
+{"BrazilCoin":0,"IndonesiaCoin":0,"duobleCoin":1,"sn":301,"stepNum":0,"tips":"这是一个tips","type":3,"weight":50}
+]
